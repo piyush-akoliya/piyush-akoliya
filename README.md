@@ -1,9 +1,9 @@
-[![MasterHead](https://github.com/piyush-akoliya/piyush-akoliya/blob/main/banner.png)](https://piyush-akoliya.io)
+[![MasterHead](https://github.com/piyush-akoliya/piyush-akoliya/blob/main/Banner.gif)](https://piyush-akoliya.io)
 
 <h1 align="center">Hi 👋, I'm Piyush Akoliya</h1>
 <h3 align="center">A passionate full stack developer in Canada</h3>
 
-<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+<img align="right" alt="Coding" width="400" src="https://github.com/piyush-akoliya/piyush-akoliya/blob/main/Left%20Side.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-akoliya&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-akoliya" /> </p>
 
