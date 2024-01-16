@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush-akoliya&label=Profile%20views&color=0e75b6&style=flat" alt="piyush-akoliya" /> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Microservices**
+- 🌱 I’m currently learning **Docker, Kubernetes and Microservices**
 
-- 💬 Ask me about **Java, MERN**
+- 💬 Ask me about **Java, JavaScript, MERN, AWS **
 
 - 📫 How to reach me **akoliyapiyush28@gmail.com**
 
